@@ -1,8 +1,8 @@
 # Pandas-Blog-Post
-** Why was Pandas Created/
+** Why was Pandas Created? **
 
-** What are the benefits of using Pandas?
+** What are the benefits of using Pandas? **
 
-** Issues with Pandas
+** Issues with Pandas **
 
-** Ways to Resolve Issues
+** Ways to Resolve Issues **
