@@ -1,6 +1,5 @@
-# 2021-09-29-Pandas-Blog-Post
 ---
-title: Pandas for Beginner and Intermediate
+title: 2021-09-29-Pandas-Blog-Post
 author: sk563
 post-image:
 description:
