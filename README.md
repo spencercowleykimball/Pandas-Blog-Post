@@ -1,5 +1,6 @@
 # 2021-09-29-Pandas-Blog-Post
 **Why was Pandas Created?**
+
 Pandas was created in order to get "better performance" than excel around 2007 by Wes McKinney. 
 
 If you would like to learn more about the history of pandas, refer to this website
