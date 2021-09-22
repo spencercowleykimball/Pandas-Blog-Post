@@ -1,11 +1,12 @@
 ---
 title: 2021-09-29-Pandas-Blog-Post
-author: sk563
+layout: post
+author: skimball_22
 post-image: ![elena-loshina-94c2BwxqwXw-unsplash](https://user-images.githubusercontent.com/77635875/133832882-606db727-44cd-4202-9b30-5a44f69019be.jpg)
-description:
+description: This will give a quick tutorial of how to get set up in python with pandas and give two intermediate functionalities.
 tags:
-- tag1
-- tag2
+- Beginner Pandas
+- Multi Indexing
 - tag3
 ---
 
